@@ -1,0 +1,73 @@
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #FCEBB6;
+}
+
+
+ .logo {
+    border: none;
+    background-color: #D2B48C;
+    margin: 50px 30px 50px;
+    padding: 50px 30px 50px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 300%;
+} 
+
+.address {
+    padding-left: 50px;
+    margin-top: 50px;
+    font-size: 100%;
+
+}
+
+.ftr {
+    border: none;
+    background-color: #D2B48C;
+    margin: 50px 30px 50px;
+    padding: 50px 30px 50px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50%;
+}
+
+nav {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+nav a {
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 10px;
+    font-weight: normal;
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 250%;
+    user-select: none;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+ul {
+    padding-left: 20px;
+    margin-top: auto;
+    margin-bottom: 1,5em;
+}
+
+ul li {
+    margin-top: 0;
+    font-size: 100%;
+    margin-left: 60px;
+    margin-bottom: 0,5em;
+}
